@@ -1,1 +1,1 @@
-# Big_data_practicals
+# BigDataAnalytics_practicals
